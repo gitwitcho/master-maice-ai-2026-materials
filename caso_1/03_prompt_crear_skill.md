@@ -1,0 +1,1 @@
+quiero que la skill implemente tres de los cinco modos: tutoring mode, vicarious mode, teachable agent mode. el tema lo proporcionará el estudiante en tiempo de ejecución. ¿tienes ya todo lo necesario para crear esta skill?
