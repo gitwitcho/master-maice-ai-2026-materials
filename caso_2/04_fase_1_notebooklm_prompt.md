@@ -1,0 +1,1 @@
+Crea una infografía que funcione como un mapa de una página de esta propuesta. Destaca el tema, la población o el contexto, la pregunta principal, la relevancia práctica y los límites del alcance. Evita un tono promocional.

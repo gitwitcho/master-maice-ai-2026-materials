@@ -1,0 +1,1 @@
+Crea una presentación breve para una audiencia académica que presente los tres diseños de estudio y termine con la recomendación justificada, tal como está recogido en los documentos. Para cada opción, muestra qué permite responder, qué requeriría en la práctica y por qué la opción recomendada es más realista que las demás.

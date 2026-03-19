@@ -1,0 +1,1 @@
+Entrevístame para convertir una idea vaga en una propuesta pequeña de investigación. Mi idea inicial es: [pega aquí tu idea]
